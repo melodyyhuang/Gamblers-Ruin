@@ -11,4 +11,6 @@ The code tracks the amount of money you have made, across *n* rounds, given a st
 *p* is varied across several thresholds and the simulations are repeated 1000 times to generate an expected amount of money made, given you've played *n* rounds. 
 
 The simulation will give you results that look something akin to the following: 
+
+
 <img src="https://raw.githubusercontent.com/melodyyhuang/Gamblers-Ruin/master/Figures/result.png"/>
